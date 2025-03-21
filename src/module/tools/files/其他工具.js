@@ -28,6 +28,16 @@ export default {
       link: 'https://www.jiemadi.com/#google_vgnette'
     },
     {
+      icon: 'https://www.freeonlinephone.org/favicon.png',
+      name: '免费手机号接收验证码',
+      link: 'https://www.freeonlinephone.org/'
+    },
+    {
+      icon: 'https://sms-receive.net/favicon.ico',
+      name: '免费手机号接收验证码',
+      link: 'https://sms-receive.net/'
+    },
+    {
       icon: 'https://www.bootcdn.cn/assets/ico/favicon.ico?1694658481677',
       name: '免费CDN加速',
       link: 'https://www.bootcdn.cn/'
