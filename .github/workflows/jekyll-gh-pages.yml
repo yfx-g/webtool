@@ -7,7 +7,12 @@ on:
     branches: ['master']
 
   # 这个选项可以使你手动在 Action tab 页面触发工作流
-  workflow_dispatch:      
+  workflow_dispatch:
+    inputs:
+      name:
+        description: '请输入命令start开始'
+        required: true
+        default: 'start'
 
 # 设置 GITHUB_TOKEN 的权限，以允许部署到 GitHub Pages。
 permissions:
@@ -27,13 +32,18 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [16, 18, 20]
+    
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Set up Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          #node-version: ${{ matrix.node }}
+          node-version: 20
           cache: 'npm'
       - name: Install dependencies
         run: npm install
@@ -42,7 +52,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-artifact@v4
         with:
           # Upload dist repository
           path: './dist'
