@@ -51,7 +51,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: site-dist
-          path: dist/
+          path: ./dist
           retention-days: 3
           if-no-files-found: error 
       - name: Deploy to GitHub Pages
