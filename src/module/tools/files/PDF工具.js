@@ -28,7 +28,7 @@ export default {
       link: 'https://pdf.yozocloud.cn/'
     },
     {
-      icon: 'https://cdn.xodo.com/18.130.0/public/favicon/favicon-xodo-16.png',
+      icon: 'https://cdn.xodo.com/20.21.0/public/favicon/favicon-xodo-32.png',
       name: 'PDF2HTML',
       link: 'https://xodo.com/convert-pdf-to-html'
     },

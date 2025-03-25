@@ -3,9 +3,9 @@ export default {
   name: 'UI框架',
   collection: [
     {
-      icon: 'https://element-plus.gitee.io//images/element-plus-logo-small.svg',
+      icon: 'https://element-plus.org/images/element-plus-logo-small.svg',
       name: 'Element Plus',
-      link: 'https://element-plus.gitee.io/zh-CN/'
+      link: 'https://element-plus.org/zh-CN/#/zh-CN'
     }
   ]
 }

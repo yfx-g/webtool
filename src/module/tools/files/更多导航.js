@@ -3,12 +3,7 @@ export default {
   name: '更多导航',
   collection: [
     {
-      icon: 'https://mp-b28966cb-26bc-43ae-b98b-aa286fad0729.cdn.bspapp.com/cloudstorage/31e91b77-d492-4f27-9ce1-d20ad54ad8e2.ico',
-      name: '万能导航',
-      link: 'https://www.5cv.top/'
-    },
-    {
-      icon: 'https://static.runoob.com/images/c-runoob-logo.ico',
+      icon: 'https://static.jyshare.com/images/c-runoob-logo.ico',
       name: '菜鸟工具',
       link: 'https://c.runoob.com/'
     },

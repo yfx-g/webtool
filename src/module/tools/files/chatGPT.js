@@ -31,11 +31,6 @@ export default {
       icon: '54',
       name: 'chatbot',
       link: 'https://chatbot.theb.ai/#/chat'
-    },
-    {
-      icon: 'https://chat.hzdjs.cn/assets/img/logo.png',
-      name: 'AI Nexus',
-      link: 'https://chat.hzdjs.cn/'
     }
   ]
 }

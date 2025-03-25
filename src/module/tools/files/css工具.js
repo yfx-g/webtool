@@ -8,11 +8,6 @@ export default {
       link: 'https://cubic-bezier.com/#.17,.67,.83,.67'
     },
     {
-      icon: 'https://www.bezier-curve.com/favicon.ico',
-      name: '贝塞尔曲线',
-      link: 'https://www.bezier-curve.com/'
-    },
-    {
       icon: 'https://cssgradient.io/images/favicon-23859487.png',
       name: 'css渐变色',
       link: 'https://cssgradient.io/'

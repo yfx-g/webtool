@@ -33,11 +33,6 @@ export default {
       link: 'https://www.fonts.net.cn/'
     },
     {
-      icon: '	https://www.googlefonts.cn/Public/google/zh-cn/gstatic/google_fonts_lodp.ico',
-      name: '字体下载',
-      link: 'https://www.emojiall.com/zh-hans'
-    },
-    {
       icon: '	https://www.emojiall.com/favicon.ico',
       name: 'emojiall',
       link: 'https://www.emojiall.com/zh-hans'

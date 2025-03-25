@@ -18,11 +18,6 @@ export default {
       link: 'http://www.itmind.net/1334.html'
     },
     {
-      icon: 'https://cdn.kjj8.com/images/2021/11/20211638043297-unnamed-6.png',
-      name: '请求mock插件',
-      link: 'https://www.jianshu.com/p/9278207cdc62'
-    },
-    {
       icon: 'https://addons.mozilla.org/user-media/addon_icons/1022/1022438-64.png?modified=533cac64',
       name: '跨域代理插件',
       link: 'https://www.0z.gs/webDevelopment/1736.html'
@@ -51,11 +46,6 @@ export default {
       icon: 'https://chrome.pictureknow.com/favicon.ico',
       name: '收藏猫插件集合',
       link: 'https://chrome.pictureknow.com/'
-    },
-    {
-      icon: 'https://crxdl.com/image/favicon.ico',
-      name: 'CrxDL插件集合',
-      link: 'https://crxdl.com/'
     }
   ]
 }
