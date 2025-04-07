@@ -38,6 +38,11 @@ export default {
       link: 'http://tools.jb51.net/code/css3path'
     },
     {
+      icon: 'https://css-generators.com/custom-corners/fav.png',
+      name: 'CSS mask or clip-path',
+      link: 'https://css-generators.com/custom-corners/'
+    },
+    {
       icon: 'https://cssgrid-generator.netlify.app/favicon.ico',
       name: 'Grid网格布局',
       link: 'https://cssgrid-generator.netlify.app/'
