@@ -91,6 +91,11 @@ export default {
       icon: 'https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico',
       name: '微信公众平台',
       link: 'https://mp.weixin.qq.com/'
+    },
+    {
+      icon: 'https://onlinetools.com/favicon.ico',
+      name: 'base64转图片',
+      link: 'https://onlinetools.com/image/convert-base64-to-image'
     }
   ]
 }
