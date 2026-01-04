@@ -16,6 +16,11 @@ export default {
       icon: 'https://tool.lu/favicon.ico',
       name: '在线工具',
       link: 'https://tool.lu/'
+    },
+    {
+      icon: 'https://www.toolhelper.cn/image/logo.png',
+      name: ' 锤子在线工具网',
+      link: 'https://www.toolhelper.cn/'
     }
   ]
 }
