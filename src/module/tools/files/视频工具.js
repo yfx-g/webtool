@@ -20,12 +20,12 @@ export default {
     {
       icon: 'https://tubedown.cn/favicon-32.png',
       name: 'youtube视频下载',
-      link: 'https://tubedown.cn/youtube'
+      link: 'https://tubedown.cn/'
     },
-    // {
-    //   icon: 'https://ssyou.online/wp-content/uploads/2025/08/newvfavicon-150x150.png',
-    //   name: 'youtube视频下载',
-    //   link: 'https://ssyou.online/'
-    // }
+    {
+      icon: 'https://ssyou.online/wp-content/uploads/2025/08/newvfavicon-150x150.png',
+      name: 'youtube视频下载',
+      link: 'https://ssyou.online/'
+    }
   ]
 }
