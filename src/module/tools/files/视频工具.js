@@ -17,15 +17,15 @@ export default {
       name: '视频转换',
       link: 'https://www.zamzar.com/'
     },
-    {
-      icon: 'https://tubedown.cn/favicon-32.png',
-      name: 'youtube视频下载',
-      link: 'https://tubedown.cn/youtube'
-    },
-    {
-      icon: 'https://ssyou.online/wp-content/uploads/2025/08/newvfavicon-150x150.png',
-      name: 'youtube视频下载',
-      link: 'https://ssyou.online/'
-    }
+    // {
+    //   icon: 'https://tubedown.cn/favicon-32.png',
+    //   name: 'youtube视频下载',
+    //   link: 'https://tubedown.cn/youtube'
+    // },
+    // {
+    //   icon: 'https://ssyou.online/wp-content/uploads/2025/08/newvfavicon-150x150.png',
+    //   name: 'youtube视频下载',
+    //   link: 'https://ssyou.online/'
+    // }
   ]
 }
